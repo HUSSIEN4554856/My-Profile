@@ -469,8 +469,6 @@ header .container .there span {
 
 .skils .css img {
     width: 80px;
-
-
 }
 .skils .js img {
     transition: 0.7s;
@@ -499,11 +497,11 @@ header .container .there span {
 
 
 
-@media (max-width: 768px) {
+    @media (max-width: 768px) {
     .skils .skils-con {
         flex-direction: column;
     }
-}
+} 
 
 /* end skils */
 
